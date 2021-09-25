@@ -26,7 +26,10 @@ n = NeuralNetwork(784, 350, 26)
 
 n.set_weights_and_biases(hidden_w, hidden_b, output_w, output_b)
 
-cam = cv2.VideoCapture(1)
+# Choose your webcam here. Use 0 if you have one webcam or 1 to select a second webcam. 
+
+cam = cv2.VideoCapture(0)
+# cam = cv2.VideoCapture(1)
 
 cv2.namedWindow("Interpreter")
 
