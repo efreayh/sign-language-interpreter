@@ -4,8 +4,8 @@ This project uses a neural network to interpret American Manual Alphabet gesture
 
 ## Screenshots
 
-![alt text](images/clip1.gif "Screenshot 1")
-![alt text](images/clip2.gif "Screenshot 2")
-![alt text](images/clip3.gif "Screenshot 3")
+![Screenshot 1](images/clip1.gif "Screenshot 1")
+![Screenshot 2](images/clip2.gif "Screenshot 2")
+![Screenshot 3](images/clip3.gif "Screenshot 3")
 
 [here]: https://www.kaggle.com/datamunge/sign-language-mnist
